@@ -1,0 +1,26 @@
+{
+  "_links": {
+    "self": {
+      "href": "/resume/api.json"
+    },
+    "contact": {
+      "href": "/resume/api/contact.json"
+    },
+    "skills": {
+      "href": "/resume/api/skills.json"
+    },
+    "experience": {
+      "href": "/resume/api/experience.json"
+    },
+    "education": {
+      "href": "/resume/api/education.json"
+    },
+    "typeset": {
+      "href": "/assets/resume.pdf"
+    },
+    "website": {
+      "href": "/"
+    }
+  },
+  "about": "I'm Brendan, and this is my resume"
+}
